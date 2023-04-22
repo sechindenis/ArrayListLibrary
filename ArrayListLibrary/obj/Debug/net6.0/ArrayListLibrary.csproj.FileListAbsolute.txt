@@ -1,0 +1,15 @@
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\bin\Debug\net6.0\ArrayListLibrary.exe
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\bin\Debug\net6.0\ArrayListLibrary.deps.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\bin\Debug\net6.0\ArrayListLibrary.runtimeconfig.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\bin\Debug\net6.0\ArrayListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\bin\Debug\net6.0\ArrayListLibrary.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ArrayListLibrary.csproj.AssemblyReference.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ArrayListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ArrayListLibrary.AssemblyInfoInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ArrayListLibrary.AssemblyInfo.cs
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ArrayListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ArrayListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\refint\ArrayListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ArrayListLibrary.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ArrayListLibrary.genruntimeconfig.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\ArrayListLibrary\ArrayListLibrary\obj\Debug\net6.0\ref\ArrayListLibrary.dll
