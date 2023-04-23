@@ -53,7 +53,7 @@
 
         public int Length { get; private set; }
 
-        // 1. Adding value to the end
+        // 1. Adding a value to the end
         public void Add(int value)
         {
             if (Length == _array.Length)
@@ -65,7 +65,7 @@
             Length++;
         }
 
-        // 2. Adding array of values to the end
+        // 2. Adding an array of values to the end
         public void Add(int[] values)
         {
             if (values is null)
@@ -84,7 +84,7 @@
             Length += values.Length;
         }
 
-        // 3. Inserting value by index (to the beginning - by index 0)
+        // 3. Inserting a value by index (to the beginning - by index 0)
         public void InsertAt(int index, int value)
         {
             if (Length != 0)
@@ -116,7 +116,7 @@
             }
         }
 
-        // 4. Inserting array of values by index (to the beginning - by index 0)
+        // 4. Inserting an array of values by index (to the beginning - by index 0)
         public void InsertAt(int index, int[] values)
         {
             if (values is null)
@@ -282,7 +282,7 @@
             }
         }
 
-        // 11. Looking for the maximum value
+        // 11. Search for the maximum value
         public int FindMaxValue()
         {
             if (Length == 0)
@@ -306,7 +306,7 @@
             return maxValue;
         }
 
-        // 12. Looking for the minimum value
+        // 12. Search for the minimum value
         public int FindMinValue()
         {
             if (Length == 0)
@@ -330,7 +330,7 @@
             return minValue;
         }
 
-        // 13. Looking for the index of the maximum value
+        // 13. Search for the index of the maximum value
         public int FindMaxValueIndex()
         {
             if (Length == 0)
@@ -354,7 +354,7 @@
             return maxIndex;
         }
 
-        // 14. Looking for the index of the minimum value
+        // 14. Search for the index of the minimum value
         public int FindMinValueIndex()
         {
             if (Length == 0)
@@ -451,7 +451,7 @@
             }
         }
 
-        // 21. Removing first with value
+        // 21. Removing the first one with a value
         public int RemoveFirstWithValue(int value)
         {
             int index = -1;
@@ -473,7 +473,7 @@
             return index;
         }
 
-        // 22. Removing all with value
+        // 22. Removing each with a value
         public int RemoveAllWithValue(int value)
         {
             int[] tmp = new int[0];

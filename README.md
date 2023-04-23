@@ -18,5 +18,5 @@ A library of standard methods for ArrayList has been written, considering resizi
 14. Looking for the index of the minimum value
 15. Up Sort (bubble and insertions)
 16. Down Sort
-17. Removing the first with value
-18. Removing all with value
+17. Removing the first one with a value
+18. Removing each with a value
