@@ -451,7 +451,7 @@
             }
         }
 
-        // 21. Removing the first one with a value
+        // 17. Removing the first one with a value
         public int RemoveFirstWithValue(int value)
         {
             int index = -1;
@@ -473,7 +473,7 @@
             return index;
         }
 
-        // 22. Removing each with a value
+        // 18. Removing each with a value
         public int RemoveAllWithValue(int value)
         {
             int[] tmp = new int[0];
